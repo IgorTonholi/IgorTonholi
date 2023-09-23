@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**IgorTonholi/IgorTonholi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Igor Tonholi
 
-Here are some ideas to get you started:
+Desenvolvedor C#, NET Core, NET Framework.
+Com foco em desenvolvimento Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/IgorTonholi/)
+
+## Stack utilizada
+
+
+
+**Back-end:** C# 
+
